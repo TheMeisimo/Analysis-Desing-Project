@@ -1,0 +1,63 @@
+1. Propósito
+
+2. Referencias
+
+3. Gestión
+    3.1 Organización
+
+        La organización El poyecto se decribe en detalle en al documento correspodiente, descrito en la sección 4.2, SPMP. Ahí se encontrará dónde se encuentra ubicada el area de aseguramiento de la calidad en la estructura completa del proyecto.
+
+        El área de aseguramiento de la calidad en El proyecto contará con un ingeniero de calidad lider (El lider de calidad). El lider de calidad supervisará que todas las tareas relacionadas con esta área, descritas en la sección 3.2, se realicen correctamente. En este documento las tareas se separan en dos categorias: 
+            - Tareas internas: tareas a realizar por el equipo de desarrollo.
+            - Tareas externas: tareas a realizar por el equipo de QA.
+
+    3.2 Tareas
+
+        Tareas externas:
+            - Mantener y revisar el cumplimiento de estandares de este documento.
+            - Mantener y revisar el cumplimiento de estandares, definidos en este y en los documentos mencionados en la sección 4.2, de la documentación correspondiente a cada uno de los artefactos de El proyecto.
+            - Gestionar las reuniones externas y interdepartamentales.
+            - Gestionar las revisiones y auditorias descritas en la sección 6 de este documento.
+            - Destionar la prioridad de los defectos y mejoras de El proyecto.
+            - Mantener al día al equipo de desarrollo de las actividades partinentes del equipo de pruebas.
+            - Definir y mantener los canales y estandares de cominicación entre el equipo de desarrollo y purebas.
+            - Recolectar las metricas establecidas en la sección 5.
+
+        Tareas internas:
+            - Mantener el desarrollo de software apegado a los estandares establecidos (sección 5), de manera individual.
+            - Restringir la comuncación con el equipo de pruebas, relacionada a El proyecto, a los canales definidos.
+            - Participar en las revisiones y auditorias.
+            - Mantener y apegarse a la normalización de las bases de datos.
+
+    3.3 Responsabilidades
+
+        Durante toda la duración de El proyecto el designado como lider de aseguramiento de la calidad será el responsable de que las todas las tareas descritas en la sección 3.2 sean llevadas a cabo. Velar que las metricas se encuentren dentro de los rangos establecidos en este documento.
+
+        Los lideres de cada área del proyecto son responsables, dentro de sus respectivas áreas, de que se cumplan los lineamientos establecidos para el aseguramiento de la calidad. De igual manera es su responsabilidad que se recolecten las metricas.
+
+        Cada miembro del equipo de desarrollo es responsable de que los artefactos producidos por el o ella cumplan con los estandares de calidad definidos en este documento.
+
+    3.4 Estimación de recursos QA
+        Durante todo El proyecto se contará con un ingeniero de calidad a medio tiempo lider de aseguramiento de la calidad.
+
+    #iniciacion prueba de la conexión API inicial#
+        Durante la primera parte de El proyecto se contará con un ingeniero a tiempo completo.
+    
+    #pruebas del funcionamiento e integracion de la funcionalidad de colecta de imagenes: uno del lado del usuario y otro del lado de recibir datos#
+        Durante la segunda parte de El proyecto se contará con tres ingenieros a tiempo completo.
+
+    #pruebas del funcionamiento e integracion de la funcionalidad de muestra del recorrido: dos del lado del usuario y otro del lado de enviar datos#
+        Durante la tercera parte de El proyecto se contará con dos ingenieros a tiempo completo.
+
+    #pruebas de la integración completa de la app con las paginas y aplicaciones cliente#
+        Durante la cuarta parte de El proyecto se contará con un ingeniero a tiempo completo.
+        
+4. Documentoación
+
+5. Estandares, prácticas y conveciones
+
+6. Revisiones y auditorias
+
+7. Pruebas
+
+8. 
