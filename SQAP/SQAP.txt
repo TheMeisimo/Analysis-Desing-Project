@@ -98,7 +98,15 @@
 
         Métricas:
 
-            
+            - Tiempo medio de entrega, intervalo medio de tiempo entre entrega de requerimientos al equipo de desarrollo y su despliegue a producción.
+            - Tiempo medio de correcion de errores en producción, intervalo de tiempo medio entre creación de ticket de un defecto de software y su corrección.
+            - Días de actividad, cantidad de días en los que desarrollador emplea desarrollando software.
+            - Eficiencia, cantidad de líneas de código en producción de cada desarrolladores.
+            - Cambio de código, cantidad de líneas de código moficadas, borradas o agregadas al código despues de pasarse la primera vez a pruebas.
+            - ACR, número de fallas / número de veces de uso de la aplicación.
+
+
+
 6. Revisiones y auditorias
 
 7. Pruebas
