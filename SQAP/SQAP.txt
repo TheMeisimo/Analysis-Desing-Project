@@ -22,7 +22,7 @@
             - Gestionar las revisiones y auditorias descritas en la sección 6 de este documento.
             - Destionar la prioridad de los defectos y mejoras de El proyecto.
             - Mantener al día al equipo de desarrollo de las actividades partinentes del equipo de pruebas.
-            - Definir y mantener los canales y estandares de cominicación entre el equipo de desarrollo y purebas.
+            - Definir y mantener los canales y estandares de cominicación entre el equipo de desarrollo y pruebas.
             - Recolectar las metricas establecidas en la sección 5.
 
         Tareas internas:
@@ -42,16 +42,12 @@
     3.4 Estimación de recursos QA
         Durante todo El proyecto se contará con un ingeniero de calidad a medio tiempo lider de aseguramiento de la calidad.
 
-    #iniciacion prueba de la conexión API inicial#
         Durante la primera parte de El proyecto se contará con un ingeniero a tiempo completo.
     
-    #pruebas del funcionamiento e integracion de la funcionalidad de colecta de imagenes: uno del lado del usuario y otro del lado de recibir datos#
         Durante la segunda parte de El proyecto se contará con tres ingenieros a tiempo completo.
 
-    #pruebas del funcionamiento e integracion de la funcionalidad de muestra del recorrido: dos del lado del usuario y otro del lado de enviar datos#
         Durante la tercera parte de El proyecto se contará con dos ingenieros a tiempo completo.
 
-    #pruebas de la integración completa de la app con las paginas y aplicaciones cliente#
         Durante la cuarta parte de El proyecto se contará con un ingeniero a tiempo completo.
         
 4. Documentación
@@ -77,8 +73,32 @@
 
 5. Estandares, prácticas, conveciones y metricas
 
+    5.1 Propósito
 
+        En esta sección se describen todos los estandares, practicas, convenciones y metricas usados en El proyecto. Estos parametros no solo están relacionados con el aseguramiento de la calidad sino que tambien se tomaran para estudiar el proyecto mismo con el fin de mejorar para futuros proyectos de la compañía y que está adquiera una mayor madurez en el desarrollo.
 
+    5.2 Contenido
+
+        Estandares:
+
+            - Documentación, ISO 9001:2008
+            - Estandar de diseño en UML, UML 2.5
+            - Estandar de pruebas unitarias, el espeficicado en "Software Engineering: Modern Approaches, Second Edition".
+
+        Prácticas:
+
+            - El software en desarrollo debe ser debidamente probado antes de ser pasado a pruebas, por los desarrolladores. Siempre que sea posible deben de aplicarse pruebas unitarias con triangulación.
+            - El software siempre debe de ser evaluado y validado por el equipo de pruebas. En caso de encontrarse defectos en el producto este debe de ser devuelto al equipo de desarrollo con su debido ticket y nivel de prioridad.
+            - Todos los artefactos del proyecto deben ser almacenados en donde se especifica en el SCMP. Esto para asegurar la disponibilidad de los artefactos concistemente con los permisos de acceso de los miembros del equipo de desarrollo. 
+
+        Convenciones:
+
+            - Estandar de codificacion en Rust y C++, MISRA C++2008
+            - Estandar de codificacion en Python, PEP 8.
+
+        Métricas:
+
+            
 6. Revisiones y auditorias
 
 7. Pruebas
