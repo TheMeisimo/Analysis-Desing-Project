@@ -1,4 +1,10 @@
 1. Propósito
+1.1 alcance
+Este documento establece todas la actividades del SQAP a ser realizadas duarante el ciclo de vidad del desarrollo del sistema de Mejoramiento de Ventas y Arrendamientos(SVA)
+1.2 Identificaciòn
+1.3Vista general del sistema
+1.4 Vista general del documento
+1.5 Relaciòn con otros planes
 
 2. Referencias
 
@@ -13,7 +19,8 @@
             - Tareas internas: tareas a realizar por el equipo de desarrollo.
             - Tareas externas: tareas a realizar por el equipo de QA.
 
-    3.2 Tareas
+    3.2 Recursos
+    3.3 Tareas
 
         Tareas externas:
             - Mantener y revisar el cumplimiento de estandares de este documento.
@@ -111,4 +118,15 @@
 
 7. Pruebas
 
-8. 
+8. HERRAMIENTAS
+
+ECLIPSE-- es un Entorno de Desarrollo integrado de Còdigo abierto multiplataforma para desarrollar lo que el proyecto llama "Aplicaciones de Ciente Enriquecido".Lenguajes que Acepta:Java, ANSI C, C++, JSP, sh, perl, php, sed.
+SQL SERVER-- es un sistema de gestiòn de base de datos relacionales. Leguajes acepta: Transact-SQL.
+STARUML-- es una herramienta para moldeamiento en los estándares UML(LENGUAJE UNIFICADO MODELADO). Leguaje acepta:Grafico.
+MICROSOFT OFFICE WORD-- Editor y procesador de texto.
+
+9.Control de còdigo
+
+10.Entrenamiento
+En la siguiente tabla se listan las caacitaciones necesarias para el equipo de desarrollo
+
