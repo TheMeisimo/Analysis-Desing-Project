@@ -2,6 +2,8 @@
 
 2. Referencias
 
+    Vease sección 4.2.
+
 3. Gestión
     3.1 Organización
 
@@ -52,9 +54,30 @@
     #pruebas de la integración completa de la app con las paginas y aplicaciones cliente#
         Durante la cuarta parte de El proyecto se contará con un ingeniero a tiempo completo.
         
-4. Documentoación
+4. Documentación
 
-5. Estandares, prácticas y conveciones
+    4.1 Propósito
+        El propósito de esta sección es identificar la documentación que será usadad para el aseguramiento de la calidad.
+
+    4.2 Requerimientos mínimos de documentación
+
+        A continuación se listan los documentos producidos. Las siglas usadas para cada documento harán referencia al nombre del documento en ingles.
+
+        - Plan de aseguramiento de la calidad del software (Software Quality Assurance Plan).
+        - Plan de la gestión de la configuración del software (SCMP).
+        - Plan de la gestión del proyecto de software (SPMP).
+        - Especificación de requerimientos del software (SRS).
+        - Documento de diseño del software (SDD).
+        - Documentación de pruebas del software (STD).
+        - Plan de mantenimiento.
+    
+    4.3 Otros
+
+        <<Intencionalmente dejado en blanco>>
+
+5. Estandares, prácticas, conveciones y metricas
+
+
 
 6. Revisiones y auditorias
 
