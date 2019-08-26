@@ -155,8 +155,13 @@ Programación en Pares.
 
 12. Colecciòn de registros y almacenamiento
 
+    Se realiza la recolecciòn de documentos como checklist en la Bodega 21-Secciòn A-Modulo 1020-Archivos Proyecto SVA.
+    
+    Se debe realizar una copia de cada documento antes de ser enviado a la Bodega y entregaro al jefe del àrea o al lider de proyecto para mantener evidencia en caso de perdida de los documentos almacenados en Bodega.
+
 13.Entrenamiento
-En la siguiente tabla se listan las caacitaciones necesarias para el equipo de desarrollo
+
+    En la siguiente tabla se listan las caacitaciones necesarias para el equipo de desarrollo
 
 14.Administraciòn de riesgos
 en el proyecto SVA se ha desarrollado un plan de a
