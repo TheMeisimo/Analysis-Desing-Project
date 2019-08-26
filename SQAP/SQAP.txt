@@ -115,7 +115,19 @@ Este documento establece todas la actividades del SQAP a ser realizadas duarante
 
 
 6. Revisiones y auditorias
-
+6.1 Proposito
+6.2 Requerimientos minimos.
+    6.2.1 Revision de requerimientos de software
+    6.2.2 Inspecciòn de diseño de arquitectura
+    6.2.3 Revisiones detalas de diseño
+    6.2.4 Verificacion y vaidacion del plan de revisiones
+    6.2.5 Auditorias funcionales
+    6.2.6 Auditorias fisicas
+    6.2.7 Auditorias en Proceso
+    6.2.8 Revisiones gerenciales
+    6.2.9 Revision de la gestiòn de configraciòn del software
+6.3 
+    <<Intencionalmente dejado en blanco>>
 7. Pruebas
 
 9. HERRAMIENTAS, tecnicas y metodologias
