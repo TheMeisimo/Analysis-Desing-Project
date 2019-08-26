@@ -149,7 +149,12 @@ El proposito de este documento es definir el Plan de aseguramieno de la calidad 
     
     Dentro de la inspecciòn s debe validar y verificar el software, bscando que se este haciendo el desarrollo correcto del mismo y ademas, que este este haiendo lo correcto en su gestiòn e implmentaciòn.
     
-    6.2.3 Revisiones detalas de diseño
+    Estas se realizaran draante todo el ciclo de desarrollo del proyecto en busqueda de los defectos del mismo.
+    
+    6.2.3 Revisiones detalladas de diseño
+    
+    Esta revisiòn se hace en busueda de fallos en la arquitecura diseñada y ademàs en la implemntaciòn de dicha arquitectura que este cmpliendo en todas las àreas de desarrollo del equipo de trabajo
+    
     6.2.4 Verificacion y vaidacion del plan de revisiones
     6.2.5 Auditorias funcionales
     6.2.6 Auditorias fisicas
