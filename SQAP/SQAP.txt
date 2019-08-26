@@ -118,7 +118,8 @@ Este documento establece todas la actividades del SQAP a ser realizadas duarante
 
 7. Pruebas
 
-8. HERRAMIENTAS
+8. HERRAMIENTAS, tecnicas y metodologias
+8.1 herraientas
 
 Como lenguajes de programación: PHP, HTML, CSS, J2EE, Struts
 
@@ -133,6 +134,9 @@ Herramienta de procesamiento de texto: Microsoft Word
 Herramientas de apoyo: Internet, Excel, Photoshop.
 
 Herramientas de desarrollo: Netbeans, Dreamweaver.
+8.2 tecnicas
+Estándares: Codificación de Lenguajes, UML.
+Programación en Pares.
 
 9.Control de còdigo
 
