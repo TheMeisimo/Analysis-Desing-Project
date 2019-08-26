@@ -1,10 +1,10 @@
 1. Propósito
-1.1 alcance
-Este documento establece todas la actividades del SQAP a ser realizadas duarante el ciclo de vidad del desarrollo del sistema de Mejoramiento de Ventas y Arrendamientos(SVA)
-1.2 Identificaciòn
-1.3Vista general del sistema
-1.4 Vista general del documento
-1.5 Relaciòn con otros planes
+    1.1 alcance
+        Este documento establece todas la actividades del SQAP a ser realizadas duarante el ciclo de vidad del desarrollo del sistema de Mejoramiento de Ventas y Arrendamientos(SVA)
+    1.2 Identificaciòn
+    1.3Vista general del sistema
+    1.4 Vista general del documento
+    1.5 Relaciòn con otros planes
 
 2. Referencias
 
@@ -19,8 +19,7 @@ Este documento establece todas la actividades del SQAP a ser realizadas duarante
             - Tareas internas: tareas a realizar por el equipo de desarrollo.
             - Tareas externas: tareas a realizar por el equipo de QA.
 
-    3.2 Recursos
-    3.3 Tareas
+    3.2 Tareas
 
         Tareas externas:
             - Mantener y revisar el cumplimiento de estandares de este documento.
@@ -95,7 +94,7 @@ Este documento establece todas la actividades del SQAP a ser realizadas duarante
         Prácticas:
 
             - El software en desarrollo debe ser debidamente probado antes de ser pasado a pruebas, por los desarrolladores. Siempre que sea posible deben de aplicarse pruebas unitarias con triangulación.
-            - El software siempre debe de ser evaluado y validado por el equipo de pruebas. En caso de encontrarse defectos en el producto este debe de ser devuelto al equipo de desarrollo con su debido ticket y nivel de prioridad.
+            - El software siempre debe de ser evaluado y validado por el equipo de pruebas. En caso de encontrarse defectos en el producto este debe de ser devuelto al equipo de desarrollo con su debido tiquete y nivel de prioridad.
             - Todos los artefactos del proyecto deben ser almacenados en donde se especifica en el SCMP. Esto para asegurar la disponibilidad de los artefactos concistemente con los permisos de acceso de los miembros del equipo de desarrollo. 
 
         Convenciones:
@@ -112,9 +111,8 @@ Este documento establece todas la actividades del SQAP a ser realizadas duarante
             - Cambio de código, cantidad de líneas de código moficadas, borradas o agregadas al código despues de pasarse la primera vez a pruebas.
             - ACR, número de fallas / número de veces de uso de la aplicación.
 
-
-
 6. Revisiones y auditorias
+
 6.1 Proposito
 6.2 Requerimientos minimos.
     6.2.1 Revision de requerimientos de software
@@ -127,39 +125,82 @@ Este documento establece todas la actividades del SQAP a ser realizadas duarante
     6.2.8 Revisiones gerenciales
     6.2.9 Revision de la gestiòn de configraciòn del software
 6.3 
+
     <<Intencionalmente dejado en blanco>>
+
 7. Pruebas
 
+    Las responsabilidades y tareas del equipo de pruebas se especifican en la sección 3. Los estandares de pruebas se encuentran en detalle en el STD.
+
+8. Reporte de pruebas y acciones correctivas
+
+    El equipo de pruebas usará GitLab para el reporte de defectos y errores.
+
+    El formato de los tiquetes de reporte de defectos se muestran en el apendice A. 
+
+    El nivel de prioridad por defecto se clasificará como sigue, por la opción de peso del tiquete:
+
+        - 8-9 (Urgente): El defecto causa que el sistema se caiga, hay perdida de datos.
+        - 6-7 (Alta): El defecto causa impedimentos en las funciones criticas del sistema y no existe una posible solución al fallo.
+        - 4-5 (Media): El defecto causa impedimentos en las funciones criticas aunque hay una solución viable al fallo.
+        - 2-3 (Baja): Causa inconvenientes o el fallo es molesto.
+        - 0-1 (Niguno): Este nivel es utilizado cuando el fallo no se ha priorizado.
+    
+    Los defectos en la documentación serán etiquetados bajo alguna de las siguientes etiquetas:
+
+        - Incorrecto: información incorrecta dentro del documento.
+        - Material faltante: información flantante dentro del documento.
+        - Impreciso: falta de detalle en especificaciones dentro del documento.
+        - Ambiguo: información ambigua dentro del documento.
+        - Incompleto: información incompleta dentro del documento.
+        - Redundante (dentro del mismo o entre varios documentos): informarción equivalente o duplicada en el mismo documento, o entre varios documentos.
+        - Contradictorio (dentro del mismo o entre varios documentos): contradicción en el mismo documento, o entre varios documentos.
+        - Obsoleto: documento con información o estandares desactualizados.
+
+    El flujo de un tiquete de defecto:
+
+        1. Abierto: defecto encontrado por el tester.
+        2. Assignado: defecto asignado a un desarrollador.
+        3. En desarrollo: defecto siendo corregido por un desarrolladores.
+        4. Pruebas: defecto en pruebas por el tester que lo abrió.
+        5. Cerrado: defecto cerrado y corregido por el tester que lo abrió.
+
+    Solo el miembro del equipo de pruebas que abra un tiquete de defecto puede cerrarlo. Esto es, una vez corregido el defecto por el equipo de desarrollo el tiquete debe de ser devuelto al miembro de pruebas que lo creó en primer lugar para que este lo pruebe y lo cierre. Cualquier defecto que no cumpla con este flujo será considerado como no corregido o en su defecto no será tomado como un defecto reportado por el equipo de pruebas.
+
+    Todos los defectos reportados serán almacenados para alimentar las metricas mencionadas en la sección 5.
+
 9. HERRAMIENTAS, tecnicas y metodologias
-9.1 herraientas
+    9.1 herraientas
 
-Como lenguajes de programación: PHP, HTML, CSS, J2EE, Struts
+        Como lenguajes de programación: Python, C++, Rust
 
-Herramientas de diagramas UML: Jude, DB Designer
+        Herramientas de diagramas UML: STARUML
 
-Herramientas de bases de datos: MYSQL o Postgres
+        Herramientas de bases de datos: MYSQL o Postgres
 
-Herramientas de Casos de Uso: Jude
+        Herramientas de Casos de Uso: Jude
 
-Herramienta de procesamiento de texto: Microsoft Word
+        Herramienta de procesamiento de texto: Microsoft Word
 
-Herramientas de apoyo: Internet, Excel, Photoshop.
+        Herramientas de apoyo: Internet, Excel, Photoshop.
 
-Herramientas de desarrollo: Netbeans, Dreamweaver.
+        Herramientas de desarrollo: Visual Code.
 
-9.2 tecnicas
+        Herramienta de gestion de versionamiento: GitLab
 
-Estándares: Codificación de Lenguajes, UML.
+    9.2 tecnicas
 
-Programación en Pares.
+        Estándares de codificacion y UML descritos en sección 5.2.
+
+        Programación en Pares.
 
 10.Control de medios
 
--Para realizar el procedimiento de alacenmiento de la informaciòn en discos extraibles, se debe hacer presente un miembro del àrea QA , el lìder del proyecto y un delegado del àrea a la que correpospede la informaciòn.
+    -Para realizar el procedimiento de alacenmiento de la informaciòn en discos extraibles, se debe hacer presente un miembro del àrea QA , el lìder del proyecto y un delegado del àrea a la que correpospede la informaciòn.
 
-- Para los discos extraibles se debe ademàs sellar de tal manera en que diga cuando fue extraida la informaciòn que este contiene.
+    - Para los discos extraibles se debe ademàs sellar de tal manera en que diga cuando fue extraida la informaciòn que este contiene.
 
--Se guardarà la informaciòn en en el cloud AZURE, en las ciudades de Sao Pablo, Ohio y Paris.
+    -Se guardarà la informaciòn en el cloud AZURE, en las ciudades de Sao Pablo, Ohio y Paris.
 
 11.Control de proveedores
 
