@@ -134,11 +134,20 @@ Herramienta de procesamiento de texto: Microsoft Word
 Herramientas de apoyo: Internet, Excel, Photoshop.
 
 Herramientas de desarrollo: Netbeans, Dreamweaver.
+
 9.2 tecnicas
+
 Estándares: Codificación de Lenguajes, UML.
+
 Programación en Pares.
 
 10.Control de medios
+
+-Para realizar el procedimiento de alacenmiento de la informaciòn en discos extraibles, se debe hacer presente un miembro del àrea QA , el lìder del proyecto y un delegado del àrea a la que correpospede la informaciòn.
+
+- Para los discos extraibles se debe ademàs sellar de tal manera en que diga cuando fue extraida la informaciòn que este contiene.
+
+-Se guardarà la informaciòn en en el cloud AZURE, en las ciudades de Sao Pablo, Ohio y Paris.
 
 11.Control de proveedores
 
