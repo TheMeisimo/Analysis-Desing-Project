@@ -164,4 +164,5 @@ Programación en Pares.
     En la siguiente tabla se listan las caacitaciones necesarias para el equipo de desarrollo
 
 14.Administraciòn de riesgos
-en el proyecto SVA se ha desarrollado un plan de a
+
+    Es responsabilidad de SQA verificar que los proceso para migrar los riesgos definidos en el plan de riesgos y que estos sean seguidos al pie de la letra.
