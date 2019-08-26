@@ -151,6 +151,8 @@ Programación en Pares.
 
 11.Control de proveedores
 
+    Se envià al àrea de contabilidad los requerimientos de Hardware y de Licencias de los Sodtware para se realice la gestiòn y e debido seguimiento a los proveedores y su confiabilidad. 
+
 12. Colecciòn de registros y almacenamiento
 
 13.Entrenamiento
