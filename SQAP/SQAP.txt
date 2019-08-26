@@ -147,7 +147,8 @@ El proposito de este documento es definir el Plan de aseguramieno de la calidad 
     6.2.7 Auditorias en Proceso
     6.2.8 Revisiones gerenciales
     6.2.9 Revision de la gestiòn de configraciòn del software
-6.3 
+    
+6.3 Otras revisiones y Auditorias
 
     <<Intencionalmente dejado en blanco>>
 
