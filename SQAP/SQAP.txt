@@ -113,7 +113,20 @@
 
 6. Revisiones y auditorias
 
-    
+6.1 Proposito
+6.2 Requerimientos minimos.
+    6.2.1 Revision de requerimientos de software
+    6.2.2 Inspecciòn de diseño de arquitectura
+    6.2.3 Revisiones detalas de diseño
+    6.2.4 Verificacion y vaidacion del plan de revisiones
+    6.2.5 Auditorias funcionales
+    6.2.6 Auditorias fisicas
+    6.2.7 Auditorias en Proceso
+    6.2.8 Revisiones gerenciales
+    6.2.9 Revision de la gestiòn de configraciòn del software
+6.3 
+
+    <<Intencionalmente dejado en blanco>>
 
 7. Pruebas
 
@@ -156,15 +169,53 @@
 
     Todos los defectos reportados serán almacenados para alimentar las metricas mencionadas en la sección 5.
 
-10. HERRAMIENTAS
+9. HERRAMIENTAS, tecnicas y metodologias
+    9.1 herraientas
 
-GitLab-- Se utilizará para la gestión del proyecto, esto es control de versionamiento, reporte de errores, despliegue de aplicativos y almacenemiento de artefactos.
-ECLIPSE-- es un Entorno de Desarrollo integrado de Còdigo abierto multiplataforma para desarrollar lo que el proyecto llama "Aplicaciones de Ciente Enriquecido".Lenguajes que Acepta:Java, ANSI C, C++, JSP, sh, perl, php, sed.
-SQL SERVER-- es un sistema de gestiòn de base de datos relacionales. Leguajes acepta: Transact-SQL.
-STARUML-- es una herramienta para moldeamiento en los estándares UML(LENGUAJE UNIFICADO MODELADO). Leguaje acepta:Grafico.
-MICROSOFT OFFICE WORD-- Editor y procesador de texto.
+        Como lenguajes de programación: Python, C++, Rust
 
-9.Control de còdigo
+        Herramientas de diagramas UML: STARUML
 
-En la siguiente tabla se listan las caacitaciones necesarias para el equipo de desarrollo
+        Herramientas de bases de datos: MYSQL o Postgres
 
+        Herramientas de Casos de Uso: Jude
+
+        Herramienta de procesamiento de texto: Microsoft Word
+
+        Herramientas de apoyo: Internet, Excel, Photoshop.
+
+        Herramientas de desarrollo: Visual Code.
+
+        Herramienta de gestion de versionamiento: GitLab
+
+    9.2 tecnicas
+
+        Estándares de codificacion y UML descritos en sección 5.2.
+
+        Programación en Pares.
+
+10.Control de medios
+
+    -Para realizar el procedimiento de alacenmiento de la informaciòn en discos extraibles, se debe hacer presente un miembro del àrea QA , el lìder del proyecto y un delegado del àrea a la que correpospede la informaciòn.
+
+    - Para los discos extraibles se debe ademàs sellar de tal manera en que diga cuando fue extraida la informaciòn que este contiene.
+
+    -Se guardarà la informaciòn en el cloud AZURE, en las ciudades de Sao Pablo, Ohio y Paris.
+
+11.Control de proveedores
+
+    Se envià al àrea de contabilidad los requerimientos de Hardware y de Licencias de los Sodtware para se realice la gestiòn y e debido seguimiento a los proveedores y su confiabilidad. 
+
+12. Colecciòn de registros y almacenamiento
+
+    Se realiza la recolecciòn de documentos como checklist en la Bodega 21-Secciòn A-Modulo 1020-Archivos Proyecto SVA.
+    
+    Se debe realizar una copia de cada documento antes de ser enviado a la Bodega y entregaro al jefe del àrea o al lider de proyecto para mantener evidencia en caso de perdida de los documentos almacenados en Bodega.
+
+13.Entrenamiento
+
+    En la siguiente tabla se listan las caacitaciones necesarias para el equipo de desarrollo
+
+14.Administraciòn de riesgos
+
+    Es responsabilidad de SQA verificar que los proceso para migrar los riesgos definidos en el plan de riesgos y que estos sean seguidos al pie de la letra.
