@@ -118,8 +118,8 @@ Este documento establece todas la actividades del SQAP a ser realizadas duarante
 
 7. Pruebas
 
-8. HERRAMIENTAS, tecnicas y metodologias
-8.1 herraientas
+9. HERRAMIENTAS, tecnicas y metodologias
+9.1 herraientas
 
 Como lenguajes de programación: PHP, HTML, CSS, J2EE, Struts
 
@@ -134,14 +134,18 @@ Herramienta de procesamiento de texto: Microsoft Word
 Herramientas de apoyo: Internet, Excel, Photoshop.
 
 Herramientas de desarrollo: Netbeans, Dreamweaver.
-8.2 tecnicas
+9.2 tecnicas
 Estándares: Codificación de Lenguajes, UML.
 Programación en Pares.
 
-9.Control de còdigo
+10.Control de medios
 
-10.Entrenamiento
+11.Control de proveedores
+
+12. Colecciòn de registros y almacenamiento
+
+13.Entrenamiento
 En la siguiente tabla se listan las caacitaciones necesarias para el equipo de desarrollo
 
-11.Administraciòn de riesgos
+14.Administraciòn de riesgos
 en el proyecto SVA se ha desarrollado un plan de a
