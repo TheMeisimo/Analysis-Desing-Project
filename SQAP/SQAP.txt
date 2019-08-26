@@ -136,7 +136,10 @@ El proposito de este documento es definir el Plan de aseguramieno de la calidad 
 
 6. Revisiones y auditorias
 
-6.1 Proposito
+    6.1 Proposito
+    
+    El proposito de las revisiones y auditorias es mantener la atenciòn de los ingenieros enfocada en la calidad de la aplicaciòn.Las revisiones son realizadas de manera progrmada mientras que las auditorias se hacen de manera aleatoria.
+    
 6.2 Requerimientos minimos.
     6.2.1 Revision de requerimientos de software
     6.2.2 Inspecciòn de diseño de arquitectura
