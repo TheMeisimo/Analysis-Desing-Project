@@ -1,9 +1,34 @@
 1. Propósito
-El proosito de este documento es definir el Plan de aseguramieno de la calidad del software para el sistema de Venta y Aredamiento de inmuebles, asignaciòn de responsabilidades y tareas del SQA, definir los documentos, guias y hrramientas aa los reportes del SQA.
+
+El proposito de este documento es definir el Plan de aseguramieno de la calidad del software para el sistema de Venta y Aredamiento de inmuebles, asignaciòn de responsabilidades y tareas del SQA, definir los documentos, guias y hrramientas aa los reportes del SQA.
+
     1.1 alcance
-        Este documento establece todas la actividades del SQAP a ser realizadas duarante el ciclo de vidad del desarrollo del sistema de Mejoramiento de Ventas y Arrendamientos(SVA)
+    
+        Este documento establece todas la actividades del SQAP a ser realizadas mientras este en           funcionamiento el sistema de Vneta y Arrendamiento de inmuebles(SVA).Con el se busca                verificar que todo el software y documentaciòn cumpla con lo requerimientos establecidos.
+        
     1.2 Identificaciòn
-    1.3Vista general del sistema
+    
+        Al cliente
+        
+        -SRS (Especificaciones de requerimientos de software).
+        -Manuales de usuario y de ayuda.
+        
+        Trabajos internos
+        
+        -SQAP
+        -Perimetro definido por software
+        -Especificaciòn de diseño
+        -Estandares y Procedimientos
+        -Planes de Pruebas.
+        
+        Productos adquiridos
+        
+        -Herramientas de programaciòn
+        
+    1.3 Vista general del sistema
+    
+        El sistema de Venta y arrendamiento de inmuebles esta enfocado a mejorar a experiencia del cliente a la hora de adquirir un inmueble.
+        
     1.4 Vista general del documento
     1.5 Relaciòn con otros planes
 
