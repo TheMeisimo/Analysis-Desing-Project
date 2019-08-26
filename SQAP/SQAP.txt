@@ -120,13 +120,24 @@ Este documento establece todas la actividades del SQAP a ser realizadas duarante
 
 8. HERRAMIENTAS
 
-ECLIPSE-- es un Entorno de Desarrollo integrado de Còdigo abierto multiplataforma para desarrollar lo que el proyecto llama "Aplicaciones de Ciente Enriquecido".Lenguajes que Acepta:Java, ANSI C, C++, JSP, sh, perl, php, sed.
-SQL SERVER-- es un sistema de gestiòn de base de datos relacionales. Leguajes acepta: Transact-SQL.
-STARUML-- es una herramienta para moldeamiento en los estándares UML(LENGUAJE UNIFICADO MODELADO). Leguaje acepta:Grafico.
-MICROSOFT OFFICE WORD-- Editor y procesador de texto.
+Como lenguajes de programación: PHP, HTML, CSS, J2EE, Struts
+
+Herramientas de diagramas UML: Jude, DB Designer
+
+Herramientas de bases de datos: MYSQL o Postgres
+
+Herramientas de Casos de Uso: Jude
+
+Herramienta de procesamiento de texto: Microsoft Word
+
+Herramientas de apoyo: Internet, Excel, Photoshop.
+
+Herramientas de desarrollo: Netbeans, Dreamweaver.
 
 9.Control de còdigo
 
 10.Entrenamiento
 En la siguiente tabla se listan las caacitaciones necesarias para el equipo de desarrollo
 
+11.Administraciòn de riesgos
+en el proyecto SVA se ha desarrollado un plan de a
