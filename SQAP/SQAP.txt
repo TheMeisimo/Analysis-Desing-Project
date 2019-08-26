@@ -29,9 +29,6 @@ El proposito de este documento es definir el Plan de aseguramieno de la calidad 
     
         El sistema de Venta y arrendamiento de inmuebles esta enfocado a mejorar a experiencia del cliente a la hora de adquirir un inmueble.
         
-    1.4 Vista general del documento
-    1.5 Relaciòn con otros planes
-
 2. Referencias
 
     Vease sección 4.2.
