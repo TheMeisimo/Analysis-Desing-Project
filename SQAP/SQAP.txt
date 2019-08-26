@@ -234,26 +234,26 @@ El proposito de este documento es definir el Plan de aseguramieno de la calidad 
 
 10.Control de medios
 
-    -Para realizar el procedimiento de alacenmiento de la informaciòn en discos extraibles, se debe hacer presente un miembro del àrea QA , el lìder del proyecto y un delegado del àrea a la que correpospede la informaciòn.
+    -Para realizar el procedimiento de alacenmiento de la información en discos extraibles, se debe hacer presente un miembro del área QA , el lìder del proyecto y un delegado del área a la que correpospede la información.
 
-    - Para los discos extraibles se debe ademàs sellar de tal manera en que diga cuando fue extraida la informaciòn que este contiene.
+    - Para los discos extraibles se debe además sellar de tal manera en que diga cuando fue extraida la información que este contiene.
 
-    -Se guardarà la informaciòn en el cloud AZURE, en las ciudades de Sao Pablo, Ohio y Paris.
+    -Se guardará la información en el cloud AZURE, en las ciudades de Sao Pablo, Ohio y París.
 
 11.Control de proveedores
 
-    Se envià al àrea de contabilidad los requerimientos de Hardware y de Licencias de los Sodtware para se realice la gestiòn y e debido seguimiento a los proveedores y su confiabilidad. 
+    Se envía al área de contabilidad los requerimientos de Hardware y de Licencias de los Sodtware para se realice la gestión y e debido seguimiento a los proveedores y su confiabilidad. 
 
-12. Colecciòn de registros y almacenamiento
+12. Colección de registros y almacenamiento
 
-    Se realiza la recolecciòn de documentos como checklist en la Bodega 21-Secciòn A-Modulo 1020-Archivos Proyecto SVA.
+    Se realiza la recolección de documentos como checklist en la Bodega 21-Sección A-Modulo 1020-Archivos Proyecto SVA.
     
-    Se debe realizar una copia de cada documento antes de ser enviado a la Bodega y entregaro al jefe del àrea o al lider de proyecto para mantener evidencia en caso de perdida de los documentos almacenados en Bodega.
+    Se debe realizar una copia de cada documento antes de ser enviado a la Bodega y entregaro al jefe del área o al lider de proyecto para mantener evidencia en caso de perdida de los documentos almacenados en Bodega.
 
 13.Entrenamiento
 
     En la siguiente tabla se listan las caacitaciones necesarias para el equipo de desarrollo
 
-14.Administraciòn de riesgos
+14.Administración de riesgos
 
     Es responsabilidad de SQA verificar que los proceso para migrar los riesgos definidos en el plan de riesgos y que estos sean seguidos al pie de la letra.
